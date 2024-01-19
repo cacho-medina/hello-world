@@ -1,8 +1,3 @@
-# React + Vite
+# Hello World
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Aplicacion web simple en la que se muestran 3 mensajes de hello world. El primero es un componente con el mensaje, el segundo es un componente que recibe el mensaje por props y por ultimo otro componente cuyo mensaje es cambiado mediante el estado local del componente.
